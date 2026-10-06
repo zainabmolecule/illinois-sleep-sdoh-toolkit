@@ -61,3 +61,10 @@ devtools : 2.5.2
 
 Interactive dashboard and story:
 https://public.tableau.com/views/Illinois-Sleep-SDOH-Draft-1/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+--- Project Links ---
+
+GitHub repository:
+https://github.com/zainabmolecule/illinois-sleep-sdoh-toolkit 
+
+Tableau Public dashboard and story:
+https://public.tableau.com/views/Illinois-Sleep-SDOH-Draft-1/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
