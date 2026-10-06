@@ -57,3 +57,7 @@ lmtest : 0.9.40
 ResourceSelection : 0.3.6 
 sandwich : 3.1.3 
 devtools : 2.5.2 
+--- Tableau Public ---
+
+Interactive dashboard and story:
+https://public.tableau.com/views/Illinois-Sleep-SDOH-Draft-1/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
