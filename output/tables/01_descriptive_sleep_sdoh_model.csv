@@ -1,0 +1,8 @@
+variable,n,missing,mean,sd,min,median,max
+pct_bachelor_plus,102,0,23.56,8.28,12.55,20.91,51.84
+pct_lila_tracts,102,0,19.12,19.81,0,16.67,100
+poverty_rate,102,0,12.58,3.89,5.02,12.55,24.98
+short_sleep_pct,102,0,35.85,1.69,30.5,35.7,41
+social_associations,102,0,14.07,4.68,0,13.87,29.65
+unemployment_rate,102,0,4.61,1.5,1.35,4.37,9.16
+uninsured_rate,102,0,5.37,2.15,2.1,5.1,15.4
